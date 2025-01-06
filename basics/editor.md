@@ -2,37 +2,19 @@
 icon: pen-to-square
 ---
 
-# Editor
+# 交易笔记
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+## 2025年1月7日：
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+切记前几根K线不要着急冲进去，有明确的信号也不迟，任何时间都有交易机会。
 
-### Writing content
+如果可以更晚睡觉，就一定盯着到目标位，大震荡被震出来也不后悔，不要着急冲回去赚钱，有赚不完的机会，切记着急，莫慌。
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+CES大会电子春晚开幕，半导体大涨；特斯拉在大涨8%之后，跟随不佳。
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+### 2025年1月8日
 
-### Add a new block
 
-{% stepper %}
-{% step %}
-### Open the insert block menu
 
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
+### 2025年1月9日
 
