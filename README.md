@@ -4,4 +4,4 @@ icon: hand-wave
 
 # 说明
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+巴菲特给股东的信，按年份集合
