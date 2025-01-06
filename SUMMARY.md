@@ -1,10 +1,17 @@
 # Table of contents
 
-* [说明](README.md)
-* [1957年](1957-nian.md)
-* [1958年](1958-nian.md)
-* [1959年](1959-nian.md)
-* [1960年](1960-nian.md)
-* [1961年](1961-nian.md)
-* [1962年](1962-nian.md)
-* [1963年](1963-nian.md)
+* [Welcome](README.md)
+
+## Getting Started
+
+* [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
+
+## Basics
+
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)
