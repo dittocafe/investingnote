@@ -8,5 +8,5 @@
 * [V38C](1959-nian.md)
 * [V38D](1960-nian.md)
 * [V39A](1961-nian.md)
-* [V39B](1962-nian.md)
-* [1963年](1963-nian.md)
+* [V39B](1963-nian.md)
+* [V39C](1962-nian.md)
