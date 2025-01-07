@@ -4,6 +4,7 @@
   * [油管：方方土PriceAction](https://www.youtube.com/@LouiePriceAction)
   * [AL BROOKS Tading Course](https://www.brookstradingcourse.com/)
 * [交易日记心得](jiao-yi-ri-ji-xin-de.md)
+* [课程学习简要笔记](ke-cheng-xue-xi-jian-yao-bi-ji.md)
 * [V01](1957-nian.md)
 * [V38A](1958-nian.md)
 * [V38C](1959-nian.md)
