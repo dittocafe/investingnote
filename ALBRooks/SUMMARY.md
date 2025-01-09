@@ -14,3 +14,5 @@
     * [V39A](ke-cheng-xue-xi-jian-yao-bi-ji/v37-v52/1961-nian.md)
     * [V39B](ke-cheng-xue-xi-jian-yao-bi-ji/v37-v52/1963-nian.md)
     * [V39C](ke-cheng-xue-xi-jian-yao-bi-ji/v37-v52/1962-nian.md)
+* [方方土的课程](fang-fang-tu-de-ke-cheng/README.md)
+  * [突破专题（1）假突破](fang-fang-tu-de-ke-cheng/tu-po-zhuan-ti-1-jia-tu-po.md)
