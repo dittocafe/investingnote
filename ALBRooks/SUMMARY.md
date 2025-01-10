@@ -17,3 +17,4 @@
 * [方方土的课程](fang-fang-tu-de-ke-cheng/README.md)
   * [突破专题（1）假突破](fang-fang-tu-de-ke-cheng/tu-po-zhuan-ti-1-jia-tu-po.md)
   * [突破专题（2）真突破](fang-fang-tu-de-ke-cheng/tu-po-zhuan-ti-2-zhen-tu-po.md)
+  * [突破专题（3）2nd 第二段](fang-fang-tu-de-ke-cheng/tu-po-zhuan-ti-32nd-di-er-duan.md)
