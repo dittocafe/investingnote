@@ -8,3 +8,5 @@
   * [Page](li-lu/page.md)
 * [付鹏](fu-peng/README.md)
   * [20241124付鹏：在汇丰私人银行演讲](fu-peng/20241124-fu-peng-zai-hui-feng-si-ren-yin-hang-yan-jiang.md)
+* [霍华德马克思](huo-hua-de-ma-ke-si/README.md)
+  * [2025年1月](huo-hua-de-ma-ke-si/2025-nian-1-yue.md)
