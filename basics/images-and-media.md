@@ -2,12 +2,10 @@
 icon: image-landscape
 ---
 
-# Images & media
+# 新闻链接
 
-GitBook allows you to add images and media easily to your docs. Simply drag a file into the editor, or use the file manager in the upper right corner to upload multiple images at once.
+[汇通经济日历](https://rl.fx678.com/)
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/images-hero.png" alt=""><figcaption><p>Add alt text and captions to your images</p></figcaption></figure>
+[Financial Juice](https://www.financialjuice.com/)
 
-{% hint style="info" %}
-You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
-{% endhint %}
+[CNN 贪婪指数](https://edition.cnn.com/markets/fear-and-greed)

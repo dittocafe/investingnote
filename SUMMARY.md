@@ -11,7 +11,7 @@
 
 * [交易笔记](basics/editor.md)
 * [公司研究](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
+* [新闻链接](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
