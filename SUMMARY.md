@@ -4,11 +4,9 @@
 
 ## 内容
 
-* [巴菲特致股东的信](https://app.gitbook.com/o/GLVk0B1tRZ0p5yU0xjLU/s/-M3-8MHQgXyS2bz2buZw/)
-* [AL BROOKS 价格行为学](https://app.gitbook.com/o/GLVk0B1tRZ0p5yU0xjLU/s/ydMFJNQS8lP1t6ppmIaG/)
-* [投资人分享](https://app.gitbook.com/o/GLVk0B1tRZ0p5yU0xjLU/s/93Gta1kjyWldWgst6mgG/)
-* [Quickstart](nei-rong/quickstart.md)
-* [Publish your docs](nei-rong/publish-your-docs.md)
+* [巴菲特致股东的信](https://www.dittocafe.com/buffettletter)
+* [AL BROOKS 价格行为学](https://www.dittocafe.com/albrookspriceaction)
+* [投资人分享](https://www.dittocafe.com/shared)
 
 ## Basics
 
