@@ -5,6 +5,7 @@
   * [AL BROOKS Tading Course](https://www.brookstradingcourse.com/)
 * [交易日记心得](jiao-yi-ri-ji-xin-de/README.md)
   * [2025年1月](jiao-yi-ri-ji-xin-de/2025-nian-1-yue.md)
+  * [2025年2月](jiao-yi-ri-ji-xin-de/2025-nian-2-yue.md)
 * [课程学习简要笔记](ke-cheng-xue-xi-jian-yao-bi-ji/README.md)
   * [V01](ke-cheng-xue-xi-jian-yao-bi-ji/1957-nian.md)
   * [V37-V52](ke-cheng-xue-xi-jian-yao-bi-ji/v37-v52/README.md)
