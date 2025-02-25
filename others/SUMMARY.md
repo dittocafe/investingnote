@@ -9,5 +9,5 @@
   * [20241124付鹏：在汇丰私人银行演讲](fu-peng/20241124-fu-peng-zai-hui-feng-si-ren-yin-hang-yan-jiang.md)
 * [霍华德马克思](huo-hua-de-ma-ke-si/README.md)
   * [2025年1月](huo-hua-de-ma-ke-si/2025-nian-1-yue.md)
-* [投资人说](tou-zi-ren-shuo/README.md)
-  * [梁文峰60条思考](tou-zi-ren-shuo/liang-wen-feng-60-tiao-si-kao.md)
+* [创业者说](chuang-ye-zhe-shuo/README.md)
+  * [梁文峰60条思考](chuang-ye-zhe-shuo/liang-wen-feng-60-tiao-si-kao.md)
