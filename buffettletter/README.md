@@ -14,3 +14,11 @@ icon: hand-wave
 [1958-nian.md](1958-nian.md)
 {% endcontent-ref %}
 
+{% content-ref url="1959-nian.md" %}
+[1959-nian.md](1959-nian.md)
+{% endcontent-ref %}
+
+{% content-ref url="1958-nian.md" %}
+[1958-nian.md](1958-nian.md)
+{% endcontent-ref %}
+
