@@ -10,7 +10,7 @@
 
 ## Basics
 
-* [交易笔记](basics/editor.md)
+* [创业者说](basics/editor.md)
 * [公司研究](basics/markdown.md)
 * [新闻链接](basics/images-and-media.md)
 * [Integrations](basics/integrations.md)
