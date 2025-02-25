@@ -11,4 +11,4 @@
   * [2025年1月](huo-hua-de-ma-ke-si/2025-nian-1-yue.md)
 * [创业者说](chuang-ye-zhe-shuo/README.md)
   * [梁文峰60条思考](chuang-ye-zhe-shuo/liang-wen-feng-60-tiao-si-kao.md)
-  * [2018年黄峥接受《财经》专访](chuang-ye-zhe-shuo/2018-nian-huang-zheng-jie-shou-cai-jing-zhuan-fang.md)
+  * [2018年黄峥《财经》专访](chuang-ye-zhe-shuo/2018-nian-huang-zheng-cai-jing-zhuan-fang.md)
