@@ -2,6 +2,7 @@
 
 * [段永平](README.md)
   * [20250105段永平浙大师生对话](duan-yong-ping/20250105-duan-yong-ping-zhe-da-shi-sheng-dui-hua.md)
+  * [20250228段永平谈英伟达](duan-yong-ping/20250228-duan-yong-ping-tan-ying-wei-da.md)
 * [李录](li-lu/README.md)
   * [查理芒格逝世一周年李录访谈](li-lu/cha-li-mang-ge-shi-shi-yi-zhou-nian-li-lu-fang-tan.md)
   * [20241207李录：全球价值投资与时代](li-lu/20241207-li-lu-quan-qiu-jia-zhi-tou-zi-yu-shi-dai.md)
